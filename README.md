@@ -4,7 +4,7 @@ Built using Express and JavaScript. I created this API to return driver nickname
 
 Link to project: https://formulaone-first-api.herokuapp.com/
 
-![formula-1-api](https://user-images.githubusercontent.com/99927513/172070452-2a41bc4b-2527-4fe9-aebb-03d86bb4c964.png)
+<img src="https://media.giphy.com/media/81yr00KovskbnGT8IG/giphy.gif" height="100%" />
 
 
 
