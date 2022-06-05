@@ -2,6 +2,8 @@
 
 Built using Express and JavaScript. I created this API to return driver nicknames for the 2022 Formula 1 Season.
 
+If you're planning on cloning this repository, please input 'npm install express --save' in your command line in order to download the necessary Express modules not included in this repository.
+
 Link to project: https://formulaone-first-api.herokuapp.com/
 
 <img src="https://media.giphy.com/media/81yr00KovskbnGT8IG/giphy.gif" height="100%" />
