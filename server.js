@@ -1,6 +1,9 @@
 const express = require('express')
 const app = express()
+const cors = require('cors')
 const PORT = 8000
+
+app.use(cors())
 
 class Driver {
     constructor(name,nationality,team,image,nickname = 'No nickname :(') {
