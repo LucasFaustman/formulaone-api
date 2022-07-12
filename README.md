@@ -35,3 +35,5 @@ Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-art
 myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
 
 My Portfolio: https://github.com/LucasFaustman/lucas-faustman-portfolio
+
+Vancouver StarGazers Society APOD Web App with NASA API integration: https://github.com/LucasFaustman/vancouver-stargazers
